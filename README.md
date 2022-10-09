@@ -1,7 +1,8 @@
 ### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=riagie.riagie">
-  
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
+-->
 <br>
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
