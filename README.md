@@ -13,7 +13,13 @@
 ![Forks](https://img.shields.io/github/forks/riagie/REPOSITORY?style=social) 
 ![Watchers](https://img.shields.io/github/watchers/riagie/REPOSITORY?style=social) 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=riagie&count_private=true&show_icons=true&hide=contribs&width=396)
-![Stats](https://github-readme-stats.vercel.app/api?username=riagie&show_icons=true&hide_border=true)
+<a href="#" title="streak">
+  <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=riagie&date_format=M%20j%5B%2C%20Y%5D&ring=D2624C" alt="riagie" />
+</a>
+
+<a href="#" title="stats">
+  <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=riagie&show_icons=true&hide_border=true" alt="riagie" />
+</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riagie&layout=compact&hide_border=true)
 ![Graph](https://activity-graph.herokuapp.com/graph?username=riagie&theme=react-dark&bg_color=20232a&hide_border=true)
